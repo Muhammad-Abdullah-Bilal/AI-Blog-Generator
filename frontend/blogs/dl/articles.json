@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "blogs/dl/deep-learning-intro.md",
+    "category": "dl",
+    "title": "Deep Learning Intro",
+    "description": "Discover the basics of deep learning and its applications, learn how to get started",
+    "date": "2026-03-23",
+    "tags": [
+      "deep-learning",
+      "neural-networks",
+      "machine-learning",
+      "artificial-intelligence",
+      "data-science"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/dl/deep-learning-intro.md"
+  }
+]
