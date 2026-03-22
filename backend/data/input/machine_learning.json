@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2026-03-22",
+        "topic": "What is Machine Learning?",
+        "subtopics": "What is Machine Learning, Why use, Example Applications, Intro to ML Systems and its types"
+    },
+    {
+        "date": "2026-03-29",
+        "topic": "Main Challenges of Machine Learning",
+        "subtopics": ""
+    },
+    {
+        "date": "2026-04-05",
+        "topic": "Life Cycle of Machine Learning Project",
+        "subtopics": ""
+    },
+    {
+        "date": "2026-04-12",
+        "topic": "Supervised Machine Learning - Classfication",
+        "subtopics": ""
+    },
+    {
+        "date": "2026-04-19",
+        "topic": "Supervised Machine Learning - Regression",
+        "subtopics": ""
+    },
+    {
+        "date": "2026-04-26",
+        "topic": "Unsupervised Machine Learning - Clustering",
+        "subtopics": ""
+    }
+]

@@ -1,0 +1,390 @@
+[
+    {
+        "date": "2026-03-27",
+        "topic": "Introduction to Generative AI"
+    },
+    {
+        "date": "2026-04-03",
+        "topic": "History of Generative Models"
+    },
+    {
+        "date": "2026-04-10",
+        "topic": "Probabilistic Generative Modeling"
+    },
+    {
+        "date": "2026-04-17",
+        "topic": "Autoregressive Models"
+    },
+    {
+        "date": "2026-04-24",
+        "topic": "Energy-Based Models"
+    },
+    {
+        "date": "2026-05-01",
+        "topic": "Variational Autoencoders"
+    },
+    {
+        "date": "2026-05-08",
+        "topic": "GAN Fundamentals"
+    },
+    {
+        "date": "2026-05-15",
+        "topic": "GAN Training Challenges"
+    },
+    {
+        "date": "2026-05-22",
+        "topic": "Conditional GANs"
+    },
+    {
+        "date": "2026-05-29",
+        "topic": "CycleGAN"
+    },
+    {
+        "date": "2026-06-05",
+        "topic": "Diffusion Model Basics"
+    },
+    {
+        "date": "2026-06-12",
+        "topic": "Denoising Diffusion Probabilistic Models"
+    },
+    {
+        "date": "2026-06-19",
+        "topic": "Latent Diffusion Models"
+    },
+    {
+        "date": "2026-06-26",
+        "topic": "Score-Based Generative Models"
+    },
+    {
+        "date": "2026-07-03",
+        "topic": "Normalizing Flows"
+    },
+    {
+        "date": "2026-07-10",
+        "topic": "Transformer Architecture for Generation"
+    },
+    {
+        "date": "2026-07-17",
+        "topic": "Large Language Model Fundamentals"
+    },
+    {
+        "date": "2026-07-24",
+        "topic": "Pretraining Objectives in LLMs"
+    },
+    {
+        "date": "2026-07-31",
+        "topic": "Causal vs Masked Language Models"
+    },
+    {
+        "date": "2026-08-07",
+        "topic": "Scaling Laws in LLMs"
+    },
+    {
+        "date": "2026-08-14",
+        "topic": "Fine-Tuning Strategies"
+    },
+    {
+        "date": "2026-08-21",
+        "topic": "Instruction Tuning"
+    },
+    {
+        "date": "2026-08-28",
+        "topic": "Reinforcement Learning from Human Feedback"
+    },
+    {
+        "date": "2026-09-04",
+        "topic": "Direct Preference Optimization"
+    },
+    {
+        "date": "2026-09-11",
+        "topic": "Parameter-Efficient Fine-Tuning"
+    },
+    {
+        "date": "2026-09-18",
+        "topic": "LoRA and Adapters"
+    },
+    {
+        "date": "2026-09-25",
+        "topic": "Prompt Engineering Principles"
+    },
+    {
+        "date": "2026-10-02",
+        "topic": "Chain-of-Thought Prompting"
+    },
+    {
+        "date": "2026-10-09",
+        "topic": "Few-Shot and Zero-Shot Prompting"
+    },
+    {
+        "date": "2026-10-16",
+        "topic": "Retrieval-Augmented Generation"
+    },
+    {
+        "date": "2026-10-23",
+        "topic": "Vector Databases in GenAI"
+    },
+    {
+        "date": "2026-10-30",
+        "topic": "Embedding Models"
+    },
+    {
+        "date": "2026-11-06",
+        "topic": "Text-to-Image Generation"
+    },
+    {
+        "date": "2026-11-13",
+        "topic": "Image-to-Image Generation"
+    },
+    {
+        "date": "2026-11-20",
+        "topic": "Text-to-Video Generation"
+    },
+    {
+        "date": "2026-11-27",
+        "topic": "Multimodal Generative Models"
+    },
+    {
+        "date": "2026-12-04",
+        "topic": "Vision-Language Models"
+    },
+    {
+        "date": "2026-12-11",
+        "topic": "Audio Generation Models"
+    },
+    {
+        "date": "2026-12-18",
+        "topic": "Speech Synthesis Models"
+    },
+    {
+        "date": "2026-12-25",
+        "topic": "Music Generation Models"
+    },
+    {
+        "date": "2027-01-01",
+        "topic": "Evaluation of Generative Models"
+    },
+    {
+        "date": "2027-01-08",
+        "topic": "Perplexity and FID Score"
+    },
+    {
+        "date": "2027-01-15",
+        "topic": "Hallucination in LLMs"
+    },
+    {
+        "date": "2027-01-22",
+        "topic": "Bias and Fairness in GenAI"
+    },
+    {
+        "date": "2027-01-29",
+        "topic": "Safety Alignment Techniques"
+    },
+    {
+        "date": "2027-02-05",
+        "topic": "Red Teaming for LLMs"
+    },
+    {
+        "date": "2027-02-12",
+        "topic": "Adversarial Attacks on Generative Models"
+    },
+    {
+        "date": "2027-02-19",
+        "topic": "Model Robustness in GenAI"
+    },
+    {
+        "date": "2027-02-26",
+        "topic": "Knowledge Distillation for LLMs"
+    },
+    {
+        "date": "2027-03-05",
+        "topic": "Quantization of Large Models"
+    },
+    {
+        "date": "2027-03-12",
+        "topic": "Pruning Large Language Models"
+    },
+    {
+        "date": "2027-03-19",
+        "topic": "Distributed Training of LLMs"
+    },
+    {
+        "date": "2027-03-26",
+        "topic": "Mixture of Experts Models"
+    },
+    {
+        "date": "2027-04-02",
+        "topic": "Sparse Transformers"
+    },
+    {
+        "date": "2027-04-09",
+        "topic": "Memory-Augmented Models"
+    },
+    {
+        "date": "2027-04-16",
+        "topic": "Long-Context Modeling"
+    },
+    {
+        "date": "2027-04-23",
+        "topic": "Agentic AI Concepts"
+    },
+    {
+        "date": "2027-04-30",
+        "topic": "Tool-Calling in LLMs"
+    },
+    {
+        "date": "2027-05-07",
+        "topic": "Planning and Reasoning in LLMs"
+    },
+    {
+        "date": "2027-05-14",
+        "topic": "Self-Reflection in LLMs"
+    },
+    {
+        "date": "2027-05-21",
+        "topic": "Synthetic Data Generation"
+    },
+    {
+        "date": "2027-05-28",
+        "topic": "Data-Centric Generative AI"
+    },
+    {
+        "date": "2027-06-04",
+        "topic": "Evaluation Benchmarks for LLMs"
+    },
+    {
+        "date": "2027-06-11",
+        "topic": "Open-Source LLM Ecosystem"
+    },
+    {
+        "date": "2027-06-18",
+        "topic": "Proprietary vs Open Models"
+    },
+    {
+        "date": "2027-06-25",
+        "topic": "Cost Optimization in LLMs"
+    },
+    {
+        "date": "2027-07-02",
+        "topic": "Latency Optimization in GenAI"
+    },
+    {
+        "date": "2027-07-09",
+        "topic": "Model Versioning in GenAI"
+    },
+    {
+        "date": "2027-07-16",
+        "topic": "Monitoring Generative Systems"
+    },
+    {
+        "date": "2027-07-23",
+        "topic": "Drift Detection in GenAI"
+    },
+    {
+        "date": "2027-07-30",
+        "topic": "Explainability in Generative Models"
+    },
+    {
+        "date": "2027-08-06",
+        "topic": "Uncertainty in Generative Models"
+    },
+    {
+        "date": "2027-08-13",
+        "topic": "Calibration of LLM Outputs"
+    },
+    {
+        "date": "2027-08-20",
+        "topic": "Ethical Frameworks for GenAI"
+    },
+    {
+        "date": "2027-08-27",
+        "topic": "Copyright and IP in GenAI"
+    },
+    {
+        "date": "2027-09-03",
+        "topic": "Privacy Concerns in Generative AI"
+    },
+    {
+        "date": "2027-09-10",
+        "topic": "Federated Generative Models"
+    },
+    {
+        "date": "2027-09-17",
+        "topic": "Continual Learning in LLMs"
+    },
+    {
+        "date": "2027-09-24",
+        "topic": "Multimodal Fusion Strategies"
+    },
+    {
+        "date": "2027-10-01",
+        "topic": "Cross-Lingual Generative Models"
+    },
+    {
+        "date": "2027-10-08",
+        "topic": "Foundation Models Overview"
+    },
+    {
+        "date": "2027-10-15",
+        "topic": "Alignment Research Directions"
+    },
+    {
+        "date": "2027-10-22",
+        "topic": "Emerging Trends in Diffusion Models"
+    },
+    {
+        "date": "2027-10-29",
+        "topic": "Scaling Beyond Trillion Parameters"
+    },
+    {
+        "date": "2027-11-05",
+        "topic": "Neurosymbolic Generative AI"
+    },
+    {
+        "date": "2027-11-12",
+        "topic": "Cognitive Architectures in AI"
+    },
+    {
+        "date": "2027-11-19",
+        "topic": "Autonomous AI Systems"
+    },
+    {
+        "date": "2027-11-26",
+        "topic": "Human-AI Collaboration Models"
+    },
+    {
+        "date": "2027-12-03",
+        "topic": "Evaluation Frameworks for GenAI"
+    },
+    {
+        "date": "2027-12-10",
+        "topic": "Advanced Prompting Paradigms"
+    },
+    {
+        "date": "2027-12-17",
+        "topic": "Theoretical Foundations of Generative Modeling"
+    },
+    {
+        "date": "2027-12-24",
+        "topic": "Information Theory in Generative AI"
+    },
+    {
+        "date": "2027-12-31",
+        "topic": "Optimization Challenges in LLMs"
+    },
+    {
+        "date": "2028-01-07",
+        "topic": "Energy Efficiency in Large Models"
+    },
+    {
+        "date": "2028-01-14",
+        "topic": "Sustainability in AI Systems"
+    },
+    {
+        "date": "2028-01-21",
+        "topic": "Future of Generative AI"
+    },
+    {
+        "date": "2028-01-28",
+        "topic": "Research Frontiers in Foundation Models"
+    }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "blogs/ml/machine-learning-basics.md",
+    "category": "ml",
+    "title": "Machine Learning Basics",
+    "description": "Discover machine learning fundamentals and unlock AI potential. Learn key concepts and techniques.",
+    "date": "2026-03-22",
+    "tags": [
+      "machine-learning",
+      "artificial-intelligence",
+      "deep-learning",
+      "natural-language-processing",
+      "data-science"
+    ],
+    "readTime": "9 min",
+    "file": "blogs/ml/machine-learning-basics.md"
+  }
+]
