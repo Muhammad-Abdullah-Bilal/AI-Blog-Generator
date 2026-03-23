@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "blogs/statistics/stats-for-aiml.md",
+    "category": "statistics",
+    "title": "Stats for AI/ML",
+    "description": "Learn statistics for AI and ML. Boost your skills",
+    "date": "2026-03-24",
+    "tags": [
+      "machine-learning",
+      "artificial-intelligence",
+      "data-science",
+      "statistical-models",
+      "deep-learning"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/statistics/stats-for-aiml.md"
+  }
+]
