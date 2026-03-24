@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "blogs/nlp/nlp-intro.md",
+    "category": "nlp",
+    "title": "NLP Intro",
+    "description": "Learn natural language processing basics",
+    "date": "2026-03-25",
+    "tags": [
+      "natural-language-processing",
+      "machine-learning",
+      "text-analysis",
+      "language-models",
+      "deep-learning"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/nlp/nlp-intro.md"
+  }
+]
