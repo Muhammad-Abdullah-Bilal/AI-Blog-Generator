@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "blogs/genai/generative-ai-intro.md",
+    "category": "genai",
+    "title": "Generative AI Intro",
+    "description": "Learn generative AI basics and applications",
+    "date": "2026-03-27",
+    "tags": [
+      "generative-models",
+      "machine-learning",
+      "artificial-intelligence",
+      "deep-learning",
+      "neural-networks"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/genai/generative-ai-intro.md"
+  }
+]
