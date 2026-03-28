@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/ml/machine-learning-challenges.md",
+    "category": "ml",
+    "title": "Machine Learning Challenges",
+    "description": "Discover key hurdles in ML, overcome them",
+    "date": "2026-03-29",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "natural-language-processing",
+      "artificial-intelligence",
+      "data-science"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/ml/machine-learning-challenges.md"
+  },
+  {
     "id": "blogs/ml/machine-learning-basics.md",
     "category": "ml",
     "title": "Machine Learning Basics",
