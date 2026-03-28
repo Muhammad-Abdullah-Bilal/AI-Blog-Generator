@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "blogs/ainews/the-week-in-ai-1.md",
+    "category": "ainews",
+    "title": "The Week in AI #1",
+    "description": "This article introduces The Week in AI #1, a series that explores the latest developments and advancements in the rapidly evolving field of Artificial Intelligence.",
+    "date": "2026-03-29",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "7 min",
+    "file": "blogs/ainews/the-week-in-ai-1.md"
+  }
+]
