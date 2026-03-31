@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/nlp/text-preprocessing-techniques.md",
+    "category": "nlp",
+    "title": "Text Preprocessing Techniques",
+    "description": "Learn to improve NLP model performance with effective text preprocessing methods. Enhance your text data",
+    "date": "2026-04-01",
+    "tags": [
+      "natural-language-processing",
+      "text-preprocessing",
+      "machine-learning",
+      "data-cleaning",
+      "nlp-techniques"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/nlp/text-preprocessing-techniques.md"
+  },
+  {
     "id": "blogs/nlp/nlp-intro.md",
     "category": "nlp",
     "title": "NLP Intro",
