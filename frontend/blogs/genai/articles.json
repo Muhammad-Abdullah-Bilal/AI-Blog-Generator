@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/generative-ai-history.md",
+    "category": "genai",
+    "title": "Generative AI History",
+    "description": "Learn about generative models, their evolution and applications",
+    "date": "2026-04-03",
+    "tags": [
+      "generative-models",
+      "deep-learning",
+      "artificial-intelligence",
+      "machine-learning",
+      "neural-networks"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/genai/generative-ai-history.md"
+  },
+  {
     "id": "blogs/genai/generative-ai-intro.md",
     "category": "genai",
     "title": "Generative AI Intro",
