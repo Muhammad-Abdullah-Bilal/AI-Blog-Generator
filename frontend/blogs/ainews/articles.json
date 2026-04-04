@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-2.md",
+    "category": "ainews",
+    "title": "The Week in AI #2",
+    "description": "This article discusses the subtle yet significant developments in the artificial intelligence landscape over the past week, highlighting its increasing integration into the global economy, politics, and society.",
+    "date": "2026-04-05",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "7 min",
+    "file": "blogs/ainews/the-week-in-ai-2.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-1.md",
     "category": "ainews",
     "title": "The Week in AI #1",
