@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/ml/machine-learning-life-cycle.md",
+    "category": "ml",
+    "title": "Machine Learning Life Cycle",
+    "description": "Learn to manage ML projects effectively, from start to finish",
+    "date": "2026-04-05",
+    "tags": [
+      "machine-learning",
+      "deep-learning",
+      "natural-language-processing",
+      "model-deployment",
+      "data-science"
+    ],
+    "readTime": "7 min",
+    "file": "blogs/ml/machine-learning-life-cycle.md"
+  },
+  {
     "id": "blogs/ml/machine-learning-challenges.md",
     "category": "ml",
     "title": "Machine Learning Challenges",
