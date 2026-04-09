@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/probabilistic-generative-models.md",
+    "category": "genai",
+    "title": "Probabilistic Generative Models",
+    "description": "Learn probabilistic generative modeling for AI applications. Discover techniques for generating realistic data.",
+    "date": "2026-04-10",
+    "tags": [
+      "generative-models",
+      "probabilistic-learning",
+      "machine-learning",
+      "deep-learning",
+      "artificial-intelligence"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/genai/probabilistic-generative-models.md"
+  },
+  {
     "id": "blogs/genai/generative-ai-history.md",
     "category": "genai",
     "title": "Generative AI History",
