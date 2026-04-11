@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-3.md",
+    "category": "ainews",
+    "title": "The Week in AI #3",
+    "description": "This article discusses the recent developments and investments in the AI landscape, highlighting a significant shift in capital allocation and potential regulatory changes.",
+    "date": "2026-04-12",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/ainews/the-week-in-ai-3.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-2.md",
     "category": "ainews",
     "title": "The Week in AI #2",
