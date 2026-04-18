@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/ml/supervised-ml-regression.md",
+    "category": "ml",
+    "title": "Supervised ML Regression",
+    "description": "Master supervised machine learning regression to predict continuous outputs with ease, improve model accuracy",
+    "date": "2026-04-19",
+    "tags": [
+      "machine-learning",
+      "regression-analysis",
+      "supervised-learning",
+      "predictive-modeling",
+      "data-science"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/ml/supervised-ml-regression.md"
+  },
+  {
     "id": "blogs/ml/supervised-ml-classification.md",
     "category": "ml",
     "title": "Supervised ML Classification",
