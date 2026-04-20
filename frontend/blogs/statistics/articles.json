@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/dispersion-measures.md",
+    "category": "statistics",
+    "title": "Dispersion Measures",
+    "description": "Learn key dispersion metrics for data analysis. Improve statistical insights",
+    "date": "2026-04-21",
+    "tags": [
+      "data-statistics",
+      "dispersion-measures",
+      "standard-deviation",
+      "variance-calculation",
+      "data-analysis-techniques"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/statistics/dispersion-measures.md"
+  },
+  {
     "id": "blogs/statistics/central-tendency-measures.md",
     "category": "statistics",
     "title": "Central Tendency Measures",
