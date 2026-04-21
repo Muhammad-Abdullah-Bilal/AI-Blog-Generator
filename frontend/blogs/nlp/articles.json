@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/nlp/stemming-vs-lemmatization.md",
+    "category": "nlp",
+    "title": "Stemming vs Lemmatization",
+    "description": "Improve NLP results with stemming and lemmatization. Learn the difference",
+    "date": "2026-04-22",
+    "tags": [
+      "natural-language-processing",
+      "text-preprocessing",
+      "stemming-techniques",
+      "lemmatization-algorithms",
+      "nlp-optimization"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/nlp/stemming-vs-lemmatization.md"
+  },
+  {
     "id": "blogs/nlp/stopwords-text-cleaning.md",
     "category": "nlp",
     "title": "Stopwords Text Cleaning",
