@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/ml/unsupervised-ml-clustering.md",
+    "category": "ml",
+    "title": "Unsupervised ML Clustering",
+    "description": "Learn to group similar data points with clustering algorithms, unlock insights",
+    "date": "2026-04-26",
+    "tags": [
+      "machine-learning",
+      "unsupervised-learning",
+      "data-clustering",
+      "pattern-recognition",
+      "deep-learning"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/ml/unsupervised-ml-clustering.md"
+  },
+  {
     "id": "blogs/ml/supervised-ml-regression.md",
     "category": "ml",
     "title": "Supervised ML Regression",
