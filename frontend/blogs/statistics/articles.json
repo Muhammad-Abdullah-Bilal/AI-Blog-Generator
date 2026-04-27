@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/probability-basics.md",
+    "category": "statistics",
+    "title": "Probability Basics",
+    "description": "Learn probability fundamentals for AI and data science applications, improve modeling skills",
+    "date": "2026-04-28",
+    "tags": [
+      "machine-learning",
+      "data-science",
+      "probability-theory",
+      "statistics-basics",
+      "ai-foundations"
+    ],
+    "readTime": "7 min",
+    "file": "blogs/statistics/probability-basics.md"
+  },
+  {
     "id": "blogs/statistics/dispersion-measures.md",
     "category": "statistics",
     "title": "Dispersion Measures",
