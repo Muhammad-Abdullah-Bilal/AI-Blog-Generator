@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/nlp/regex-for-text.md",
+    "category": "nlp",
+    "title": "Regex for Text",
+    "description": "Master regular expressions for efficient text processing and pattern matching",
+    "date": "2026-04-29",
+    "tags": [
+      "natural-language-processing",
+      "text-analysis",
+      "regular-expressions",
+      "pattern-matching",
+      "text-processing"
+    ],
+    "readTime": "4 min",
+    "file": "blogs/nlp/regex-for-text.md"
+  },
+  {
     "id": "blogs/nlp/stemming-vs-lemmatization.md",
     "category": "nlp",
     "title": "Stemming vs Lemmatization",
