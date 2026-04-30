@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/variational-autoencoders.md",
+    "category": "genai",
+    "title": "Variational Autoencoders",
+    "description": "Learn variational autoencoders for generative models, improve your AI skills",
+    "date": "2026-05-01",
+    "tags": [
+      "generative-models",
+      "deep-learning",
+      "autoencoders",
+      "variational-inference",
+      "machine-learning"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/genai/variational-autoencoders.md"
+  },
+  {
     "id": "blogs/genai/energy-based-models.md",
     "category": "genai",
     "title": "Energy-Based Models",
