@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-6.md",
+    "category": "ainews",
+    "title": "The Week in AI #6",
+    "description": "This article discusses the subtle yet significant shifts in the AI landscape, particularly the growing recognition of AI's importance in national security and economic development.",
+    "date": "2026-05-03",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "8 min",
+    "file": "blogs/ainews/the-week-in-ai-6.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-5.md",
     "category": "ainews",
     "title": "The Week in AI #5",
