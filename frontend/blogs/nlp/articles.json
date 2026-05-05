@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/nlp/bag-of-words-model.md",
+    "category": "nlp",
+    "title": "Bag Of Words Model",
+    "description": "Learn Bag of Words for NLP tasks, improve text analysis",
+    "date": "2026-05-06",
+    "tags": [
+      "natural-language-processing",
+      "text-analysis",
+      "machine-learning",
+      "nlp-techniques",
+      "text-mining"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/nlp/bag-of-words-model.md"
+  },
+  {
     "id": "blogs/nlp/regex-for-text.md",
     "category": "nlp",
     "title": "Regex for Text",
