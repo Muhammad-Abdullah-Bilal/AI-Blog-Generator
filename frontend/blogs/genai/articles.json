@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/gan-fundamentals.md",
+    "category": "genai",
+    "title": "GAN Fundamentals",
+    "description": "Learn GAN basics and applications, improve AI skills",
+    "date": "2026-05-08",
+    "tags": [
+      "generative-adversarial-networks",
+      "deep-learning",
+      "neural-networks",
+      "artificial-intelligence",
+      "machine-learning"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/genai/gan-fundamentals.md"
+  },
+  {
     "id": "blogs/genai/variational-autoencoders.md",
     "category": "genai",
     "title": "Variational Autoencoders",
