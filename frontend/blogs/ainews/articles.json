@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-7.md",
+    "category": "ainews",
+    "title": "The Week in AI #7",
+    "description": "This article discusses the latest developments and trends in the field of artificial intelligence, highlighting its evolving integration into various sectors and the challenges and opportunities that come with it.",
+    "date": "2026-05-10",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "7 min",
+    "file": "blogs/ainews/the-week-in-ai-7.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-6.md",
     "category": "ainews",
     "title": "The Week in AI #6",
