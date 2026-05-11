@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/bayes-theorem.md",
+    "category": "statistics",
+    "title": "Bayes Theorem",
+    "description": "Learn Bayes Theorem for AI, understand conditional probability",
+    "date": "2026-05-12",
+    "tags": [
+      "bayes-theorem",
+      "conditional-probability",
+      "artificial-intelligence",
+      "machine-learning",
+      "statistics"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/statistics/bayes-theorem.md"
+  },
+  {
     "id": "blogs/statistics/conditional-probability.md",
     "category": "statistics",
     "title": "Conditional Probability",
