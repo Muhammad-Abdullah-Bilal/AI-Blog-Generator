@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-8.md",
+    "category": "ainews",
+    "title": "The Week in AI #8",
+    "description": "This week has seen a significant surge in investment and government initiatives in the AI sector, with billions of dollars being poured into AI startups and new regulatory measures being announced.",
+    "date": "2026-05-17",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "7 min",
+    "file": "blogs/ainews/the-week-in-ai-8.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-7.md",
     "category": "ainews",
     "title": "The Week in AI #7",
