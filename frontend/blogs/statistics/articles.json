@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/random-variables.md",
+    "category": "statistics",
+    "title": "Random Variables",
+    "description": "Learn about random variables and their application in AI and statistics. Improve your data analysis skills",
+    "date": "2026-05-19",
+    "tags": [
+      "random-variables",
+      "probability-theory",
+      "statistical-analysis",
+      "machine-learning",
+      "data-science"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/statistics/random-variables.md"
+  },
+  {
     "id": "blogs/statistics/bayes-theorem.md",
     "category": "statistics",
     "title": "Bayes Theorem",
