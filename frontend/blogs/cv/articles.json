@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/cv/feature-detection.md",
+    "category": "cv",
+    "title": "Feature Detection",
+    "description": "Learn feature detection and description for image analysis, boost your computer vision skills",
+    "date": "2026-05-21",
+    "tags": [
+      "feature-detection",
+      "corner-detection",
+      "image-processing",
+      "computer-vision",
+      "object-recognition"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/cv/feature-detection.md"
+  },
+  {
     "id": "blogs/cv/morphological-operations.md",
     "category": "cv",
     "title": "Morphological Operations",
