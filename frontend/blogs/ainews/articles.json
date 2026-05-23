@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-9.md",
+    "category": "ainews",
+    "title": "The Week in AI #9",
+    "description": "This article discusses the latest developments and trends in the rapidly evolving field of artificial intelligence.",
+    "date": "2026-05-24",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "8 min",
+    "file": "blogs/ainews/the-week-in-ai-9.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-8.md",
     "category": "ainews",
     "title": "The Week in AI #8",
