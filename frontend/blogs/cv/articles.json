@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/cv/sift-surf.md",
+    "category": "cv",
+    "title": "SIFT SURF",
+    "description": "Learn SIFT and SURF for image feature detection,boost your computer vision skills",
+    "date": "2026-05-28",
+    "tags": [
+      "computer-vision",
+      "image-processing",
+      "feature-detection",
+      "sift-algorithm",
+      "surf-algorithm"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/cv/sift-surf.md"
+  },
+  {
     "id": "blogs/cv/feature-detection.md",
     "category": "cv",
     "title": "Feature Detection",
