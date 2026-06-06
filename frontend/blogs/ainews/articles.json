@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-11.md",
+    "category": "ainews",
+    "title": "The Week in AI #11",
+    "description": "This article discusses the latest developments and trends in the artificial intelligence landscape, highlighting key shifts in AI development, deployment, and regulation.",
+    "date": "2026-06-07",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "9 min",
+    "file": "blogs/ainews/the-week-in-ai-11.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-10.md",
     "category": "ainews",
     "title": "The Week in AI #10",
