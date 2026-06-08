@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/binomial-distribution.md",
+    "category": "statistics",
+    "title": "Binomial Distribution",
+    "description": "Learn binomial distribution for AI, understand probability",
+    "date": "2026-06-09",
+    "tags": [
+      "binomial-distribution",
+      "probability-theory",
+      "statistics-for-ai",
+      "machine-learning",
+      "data-analysis"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/statistics/binomial-distribution.md"
+  },
+  {
     "id": "blogs/statistics/normal-distribution.md",
     "category": "statistics",
     "title": "Normal Distribution",
