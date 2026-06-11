@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/denoising-diffusion-models.md",
+    "category": "genai",
+    "title": "Denoising Diffusion Models",
+    "description": "Learn diffusion probabilistic models for AI image generation. Improve your skills",
+    "date": "2026-06-12",
+    "tags": [
+      "generative-models",
+      "diffusion-based-methods",
+      "probabilistic-learning",
+      "denoising-techniques",
+      "deep-learning"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/genai/denoising-diffusion-models.md"
+  },
+  {
     "id": "blogs/genai/diffusion-model-basics.md",
     "category": "genai",
     "title": "Diffusion Model Basics",
