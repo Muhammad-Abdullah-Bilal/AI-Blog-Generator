@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/poisson-distribution.md",
+    "category": "statistics",
+    "title": "Poisson Distribution",
+    "description": "Learn Poisson Distribution for count data analysis",
+    "date": "2026-06-16",
+    "tags": [
+      "poisson-distribution",
+      "probability-theory",
+      "statistics-for-ai",
+      "machine-learning",
+      "data-analysis"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/statistics/poisson-distribution.md"
+  },
+  {
     "id": "blogs/statistics/binomial-distribution.md",
     "category": "statistics",
     "title": "Binomial Distribution",
