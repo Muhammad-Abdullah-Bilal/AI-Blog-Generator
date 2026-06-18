@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/latent-diffusion-models.md",
+    "category": "genai",
+    "title": "Latent Diffusion Models",
+    "description": "Learn about latent diffusion models. Discover their applications",
+    "date": "2026-06-19",
+    "tags": [
+      "latent-diffusion",
+      "generative-ai",
+      "deep-learning",
+      "neural-networks",
+      "diffusion-models"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/genai/latent-diffusion-models.md"
+  },
+  {
     "id": "blogs/genai/denoising-diffusion-models.md",
     "category": "genai",
     "title": "Denoising Diffusion Models",
