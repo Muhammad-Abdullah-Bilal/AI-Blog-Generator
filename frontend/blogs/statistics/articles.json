@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/uniform-distribution.md",
+    "category": "statistics",
+    "title": "Uniform Distribution",
+    "description": "Learn about uniform distribution and its applications. Improve your statistical knowledge",
+    "date": "2026-06-23",
+    "tags": [
+      "probability-theory",
+      "statistical-models",
+      "machine-learning",
+      "data-science",
+      "random-variables"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/statistics/uniform-distribution.md"
+  },
+  {
     "id": "blogs/statistics/poisson-distribution.md",
     "category": "statistics",
     "title": "Poisson Distribution",
