@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/nlp/contextual-embeddings.md",
+    "category": "nlp",
+    "title": "Contextual Embeddings",
+    "description": "Learn to improve NLP models with contextual embeddings, boosting text understanding",
+    "date": "2026-06-24",
+    "tags": [
+      "natural-language-processing",
+      "language-models",
+      "contextual-embeddings",
+      "deep-learning",
+      "nlp-techniques"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/nlp/contextual-embeddings.md"
+  },
+  {
     "id": "blogs/nlp/fasttext-model.md",
     "category": "nlp",
     "title": "FastText Model",
