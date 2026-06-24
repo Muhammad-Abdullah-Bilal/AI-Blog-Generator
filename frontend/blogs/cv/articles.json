@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/cv/hough-transform-explained.md",
+    "category": "cv",
+    "title": "Hough Transform Explained",
+    "description": "Learn Hough Transform for image processing and object detection",
+    "date": "2026-06-25",
+    "tags": [
+      "computer-vision",
+      "image-processing",
+      "hough-transform",
+      "object-detection",
+      "machine-learning"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/cv/hough-transform-explained.md"
+  },
+  {
     "id": "blogs/cv/k-means-segmentation.md",
     "category": "cv",
     "title": "K-Means Segmentation",
