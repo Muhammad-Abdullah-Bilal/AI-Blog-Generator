@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/score-based-models.md",
+    "category": "genai",
+    "title": "Score-Based Models",
+    "description": "Learn score-based generative models for AI applications. Boost your knowledge",
+    "date": "2026-06-26",
+    "tags": [
+      "generative-models",
+      "score-based-methods",
+      "deep-learning",
+      "ai-techniques",
+      "machine-learning"
+    ],
+    "readTime": "8 min",
+    "file": "blogs/genai/score-based-models.md"
+  },
+  {
     "id": "blogs/genai/latent-diffusion-models.md",
     "category": "genai",
     "title": "Latent Diffusion Models",
