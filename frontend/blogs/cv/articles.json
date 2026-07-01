@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/cv/template-matching.md",
+    "category": "cv",
+    "title": "Template Matching",
+    "description": "Learn template matching for image detection. Improve computer vision skills",
+    "date": "2026-07-02",
+    "tags": [
+      "computer-vision",
+      "image-processing",
+      "template-matching",
+      "object-detection",
+      "machine-learning"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/cv/template-matching.md"
+  },
+  {
     "id": "blogs/cv/hough-transform-explained.md",
     "category": "cv",
     "title": "Hough Transform Explained",
