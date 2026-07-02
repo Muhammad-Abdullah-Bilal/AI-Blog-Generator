@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/normalizing-flows.md",
+    "category": "genai",
+    "title": "Normalizing Flows",
+    "description": "Learn normalizing flows for AI. Improve generative models",
+    "date": "2026-07-03",
+    "tags": [
+      "generative-models",
+      "normalizing-flows",
+      "deep-learning",
+      "probabilistic-models",
+      "neural-networks"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/genai/normalizing-flows.md"
+  },
+  {
     "id": "blogs/genai/score-based-models.md",
     "category": "genai",
     "title": "Score-Based Models",
