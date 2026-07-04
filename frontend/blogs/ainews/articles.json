@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-15.md",
+    "category": "ainews",
+    "title": "The Week in AI #15",
+    "description": "This week in AI has seen a significant shift towards practical applications, with increased investment in the technology to drive innovation and improve efficiency.",
+    "date": "2026-07-05",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "9 min",
+    "file": "blogs/ainews/the-week-in-ai-15.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-14.md",
     "category": "ainews",
     "title": "The Week in AI #14",
