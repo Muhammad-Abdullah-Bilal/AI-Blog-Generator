@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/transformer-gen-ai.md",
+    "category": "genai",
+    "title": "Transformer Gen AI",
+    "description": "Learn transformer architecture for generative AI models, boost performance",
+    "date": "2026-07-10",
+    "tags": [
+      "generative-models",
+      "transformer-architecture",
+      "deep-learning",
+      "natural-language-processing",
+      "ai-techniques"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/genai/transformer-gen-ai.md"
+  },
+  {
     "id": "blogs/genai/normalizing-flows.md",
     "category": "genai",
     "title": "Normalizing Flows",
