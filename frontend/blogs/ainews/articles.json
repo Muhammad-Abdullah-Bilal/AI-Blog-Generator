@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-16.md",
+    "category": "ainews",
+    "title": "The Week in AI #16",
+    "description": "This week in AI saw a subtle shift in the industry, with a focus on the intersection of AI with various sectors such as healthcare, finance, and education.",
+    "date": "2026-07-12",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/ainews/the-week-in-ai-16.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-15.md",
     "category": "ainews",
     "title": "The Week in AI #15",
