@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/sampling-techniques.md",
+    "category": "statistics",
+    "title": "Sampling Techniques",
+    "description": "Learn statistical sampling methods for AI. Improve data analysis",
+    "date": "2026-07-14",
+    "tags": [
+      "statistical-sampling",
+      "data-analysis",
+      "machine-learning",
+      "artificial-intelligence",
+      "data-science"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/statistics/sampling-techniques.md"
+  },
+  {
     "id": "blogs/statistics/law-of-large-numbers.md",
     "category": "statistics",
     "title": "Law of Large Numbers",
