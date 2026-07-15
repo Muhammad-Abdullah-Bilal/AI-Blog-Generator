@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/cv/object-detection.md",
+    "category": "cv",
+    "title": "Object Detection",
+    "description": "Learn object detection fundamentals and improve your CV skills. Enhance your knowledge",
+    "date": "2026-07-16",
+    "tags": [
+      "computer-vision",
+      "object-detection",
+      "image-processing",
+      "machine-learning",
+      "deep-learning"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/cv/object-detection.md"
+  },
+  {
     "id": "blogs/cv/optical-flow-explained.md",
     "category": "cv",
     "title": "Optical Flow Explained",
