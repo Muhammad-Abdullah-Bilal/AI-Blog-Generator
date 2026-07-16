@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/large-language-models.md",
+    "category": "genai",
+    "title": "Large Language Models",
+    "description": "Learn LLM fundamentals and applications",
+    "date": "2026-07-17",
+    "tags": [
+      "large-language-models",
+      "natural-language-processing",
+      "deep-learning",
+      "ai-models",
+      "generative-ai"
+    ],
+    "readTime": "7 min",
+    "file": "blogs/genai/large-language-models.md"
+  },
+  {
     "id": "blogs/genai/transformer-gen-ai.md",
     "category": "genai",
     "title": "Transformer Gen AI",
