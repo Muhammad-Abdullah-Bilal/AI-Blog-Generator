@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-17.md",
+    "category": "ainews",
+    "title": "The Week in AI #17",
+    "description": "This article discusses the subtle yet significant shift in the AI landscape, marked by increased integration of AI into business operations and escalating competition for AI talent and resources.",
+    "date": "2026-07-19",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/ainews/the-week-in-ai-17.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-16.md",
     "category": "ainews",
     "title": "The Week in AI #16",
