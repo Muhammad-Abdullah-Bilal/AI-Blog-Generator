@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/sampling-bias.md",
+    "category": "statistics",
+    "title": "Sampling Bias",
+    "description": "Understand and fix sampling bias to improve model accuracy. Learn statistics for AI.",
+    "date": "2026-07-21",
+    "tags": [
+      "sampling-bias",
+      "statistics-for-ai",
+      "machine-learning",
+      "data-science",
+      "bias-variability"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/statistics/sampling-bias.md"
+  },
+  {
     "id": "blogs/statistics/sampling-techniques.md",
     "category": "statistics",
     "title": "Sampling Techniques",
