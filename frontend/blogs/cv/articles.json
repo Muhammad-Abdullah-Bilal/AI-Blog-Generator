@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/cv/fast-r-cnn-secrets.md",
+    "category": "cv",
+    "title": "Fast R-CNN Secrets",
+    "description": "Learn to optimize object detection with Fast and Faster R-CNN. Improve model performance",
+    "date": "2026-07-30",
+    "tags": [
+      "computer-vision",
+      "deep-learning",
+      "object-detection",
+      "fast-r-cnn",
+      "faster-r-cnn"
+    ],
+    "readTime": "8 min",
+    "file": "blogs/cv/fast-r-cnn-secrets.md"
+  },
+  {
     "id": "blogs/cv/region-based-cnn.md",
     "category": "cv",
     "title": "Region-Based CNN",
