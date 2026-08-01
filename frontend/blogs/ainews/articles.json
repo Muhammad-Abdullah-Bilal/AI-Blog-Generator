@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-19.md",
+    "category": "ainews",
+    "title": "The Week in AI #19",
+    "description": "This article discusses the subtle yet significant developments in the AI landscape, including shifting business strategies, regulatory changes, and geopolitical tensions, that are reshaping the AI ecosystem.",
+    "date": "2026-08-02",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "7 min",
+    "file": "blogs/ainews/the-week-in-ai-19.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-18.md",
     "category": "ainews",
     "title": "The Week in AI #18",
