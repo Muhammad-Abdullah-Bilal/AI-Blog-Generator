@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/confidence-intervals.md",
+    "category": "statistics",
+    "title": "Confidence Intervals",
+    "description": "Learn statistical inference with confidence intervals, boost your AI skills",
+    "date": "2026-08-04",
+    "tags": [
+      "statistical-inference",
+      "confidence-intervals",
+      "machine-learning",
+      "hypothesis-testing",
+      "data-analysis"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/statistics/confidence-intervals.md"
+  },
+  {
     "id": "blogs/statistics/point-estimation.md",
     "category": "statistics",
     "title": "Point Estimation",
