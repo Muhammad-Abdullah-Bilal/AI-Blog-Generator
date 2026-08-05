@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/cv/yolo-architecture.md",
+    "category": "cv",
+    "title": "YOLO Architecture",
+    "description": "Learn YOLO architecture for object detection, improve computer vision skills",
+    "date": "2026-08-06",
+    "tags": [
+      "computer-vision",
+      "object-detection",
+      "yolo-algorithm",
+      "deep-learning",
+      "machine-learning"
+    ],
+    "readTime": "6 min",
+    "file": "blogs/cv/yolo-architecture.md"
+  },
+  {
     "id": "blogs/cv/fast-r-cnn-secrets.md",
     "category": "cv",
     "title": "Fast R-CNN Secrets",
