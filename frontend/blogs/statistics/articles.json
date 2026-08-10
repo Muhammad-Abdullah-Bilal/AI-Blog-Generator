@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/statistics/hypothesis-testing.md",
+    "category": "statistics",
+    "title": "Hypothesis Testing",
+    "description": "Learn basics of hypothesis testing, enhance your statistical skills",
+    "date": "2026-08-11",
+    "tags": [
+      "hypothesis-testing",
+      "statistical-analysis",
+      "machine-learning",
+      "data-science",
+      "statistics"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/statistics/hypothesis-testing.md"
+  },
+  {
     "id": "blogs/statistics/confidence-intervals.md",
     "category": "statistics",
     "title": "Confidence Intervals",
