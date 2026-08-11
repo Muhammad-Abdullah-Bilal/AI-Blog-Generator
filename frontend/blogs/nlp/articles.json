@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/nlp/nlp-topic-modeling.md",
+    "category": "nlp",
+    "title": "NLP Topic Modeling",
+    "description": "Unlock insights with topic modeling techniques, discover hidden patterns",
+    "date": "2026-08-12",
+    "tags": [
+      "natural-language-processing",
+      "topic-modeling",
+      "text-analysis",
+      "machine-learning",
+      "information-retrieval"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/nlp/nlp-topic-modeling.md"
+  },
+  {
     "id": "blogs/nlp/nlp-metrics.md",
     "category": "nlp",
     "title": "NLP Metrics",
