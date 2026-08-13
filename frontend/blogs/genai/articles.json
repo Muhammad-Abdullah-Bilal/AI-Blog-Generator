@@ -1,5 +1,21 @@
 [
   {
+    "id": "blogs/genai/fine-tuning-ai-models.md",
+    "category": "genai",
+    "title": "Fine-Tuning AI Models",
+    "description": "Learn strategies to improve model performance and adapt to new tasks",
+    "date": "2026-08-14",
+    "tags": [
+      "fine-tuning",
+      "generative-ai",
+      "model-optimization",
+      "neural-networks",
+      "deep-learning"
+    ],
+    "readTime": "5 min",
+    "file": "blogs/genai/fine-tuning-ai-models.md"
+  },
+  {
     "id": "blogs/genai/llm-scaling-laws.md",
     "category": "genai",
     "title": "LLM Scaling Laws",
