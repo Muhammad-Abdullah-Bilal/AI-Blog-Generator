@@ -1,5 +1,19 @@
 [
   {
+    "id": "blogs/ainews/the-week-in-ai-21.md",
+    "category": "ainews",
+    "title": "The Week in AI #21",
+    "description": "The AI sector is undergoing a significant structural shift, marked by increased investments in startups and growing regulatory scrutiny.",
+    "date": "2026-08-16",
+    "tags": [
+      "ainews",
+      "artificial intelligence",
+      "weekly roundup"
+    ],
+    "readTime": "12 min",
+    "file": "blogs/ainews/the-week-in-ai-21.md"
+  },
+  {
     "id": "blogs/ainews/the-week-in-ai-20.md",
     "category": "ainews",
     "title": "The Week in AI #20",
